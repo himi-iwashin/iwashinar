@@ -1,0 +1,17 @@
+{
+  "name": "イワシん ARカメラ",
+  "short_name": "イワシんAR",
+  "description": "氷見の公式キャラクター「イワシん」と一緒に写真を撮れるARカメラ",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#dff6ff",
+  "theme_color": "#0a5d91",
+  "icons": [
+    {
+      "src": "icons/iwashin-ar-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    }
+  ]
+}
